@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-15T17:03:26 IST" name="Default suite" finished-at="2020-12-15T17:04:04 IST" duration-ms="38668">
+    <groups>
+    </groups>
+    <test started-at="2020-12-15T17:03:26 IST" name="Default test" finished-at="2020-12-15T17:04:04 IST" duration-ms="38668">
+      <class name="TestCases.CompareIphonePriceFlipAndAmazon">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:26 IST" name="setUp" finished-at="2020-12-15T17:03:36 IST" duration-ms="10260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAmazonTitlePageTest()[pri:1, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:36 IST" name="verifyAmazonTitlePageTest" finished-at="2020-12-15T17:03:36 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAmazonTitlePageTest -->
+        <test-method signature="searchItemTest()[pri:2, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:36 IST" name="searchItemTest" finished-at="2020-12-15T17:03:39 IST" duration-ms="2818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItemTest -->
+        <test-method signature="selectAppleIphone()[pri:3, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:39 IST" name="selectAppleIphone" finished-at="2020-12-15T17:03:40 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectAppleIphone -->
+        <test-method signature="getPrice()[pri:4, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:40 IST" name="getPrice" finished-at="2020-12-15T17:03:44 IST" duration-ms="4293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPrice -->
+        <test-method signature="nevigateToFlipkartFormAzazon()[pri:5, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:03:44 IST" name="nevigateToFlipkartFormAzazon" finished-at="2020-12-15T17:04:03 IST" duration-ms="19624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nevigateToFlipkartFormAzazon -->
+        <test-method signature="comparePrice1()[pri:6, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:04:03 IST" name="comparePrice1" finished-at="2020-12-15T17:04:03 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrice1 -->
+        <test-method is-config="true" signature="closeSetUp()[pri:0, instance:TestCases.CompareIphonePriceFlipAndAmazon@5e403b4a]" started-at="2020-12-15T17:04:03 IST" name="closeSetUp" finished-at="2020-12-15T17:04:04 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSetUp -->
+      </class> <!-- TestCases.CompareIphonePriceFlipAndAmazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

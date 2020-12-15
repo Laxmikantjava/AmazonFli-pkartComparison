@@ -1,0 +1,11 @@
+Required library and softwares to execute test suite
+a- jdk-1.7
+b- selenium library 3.x version
+c- TestNG 7.3.0
+d- Maven 
+e- Eclipse as a editor tool Version: 2020-03 (4.15.0)
+This automation suite have been created using selenium with java language
+In this suite there is testng.xml file which will help to run the suite either in local or using jenkins
+
+Note:- This product ( iPhone XR (64GB) - Yellow) is not available in amazon so 
+i have taken another product (Apple iPhone 7 (32GB) - Black) .
